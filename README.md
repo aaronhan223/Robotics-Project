@@ -4,15 +4,15 @@ Data analysis conducted the study of the effect of motion type and intent recogn
 
 RUNNING INSTRUCTIONS:
 
-Make sure robot's power cord is plugged in
-Turn on robot's speaker
+Make sure robot's power cord is plugged in <br />
+Turn on robot's speaker <br />
 
 # To start the arm
-ssh vector@vector1\\
-Welcome00
-sudo su
-source .bashrc
-roslaunch kinova_bringup arm.launch
+ssh vector@vector1 <br />
+Welcome00 <br />
+sudo su <br />
+source .bashrc <br />
+roslaunch kinova_bringup arm.launch <br />
 
 # move arm to starting position
 rosservice call /j2s7s300_driver/in/start_force_control
