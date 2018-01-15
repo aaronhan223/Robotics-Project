@@ -1,1 +1,1 @@
-# Robotics-Project
+In this project, an intent recognition system is implemented to recognize the human‘s hand motion intent and a motion planner system is implemented to enable the robot to generate legible and predictable motion.
