@@ -8,7 +8,7 @@ Make sure robot's power cord is plugged in
 Turn on robot's speaker
 
 # To start the arm
-ssh vector@vector1
+ssh vector@vector1\\
 Welcome00
 sudo su
 source .bashrc
